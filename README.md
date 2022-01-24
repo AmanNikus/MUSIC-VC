@@ -20,7 +20,7 @@
 -------------
 
 ## [REPL](https://t.me/LEGEND_STRINGSESSIONBOT)
-## ☁️ <a name="self_host"></a>Self Host
+## ☁️ <a name="self_host"></Aman Nikus>Self Host
 
 ```bash
 $ git clone https://github.com/LEGEND-OS/Music-VC
